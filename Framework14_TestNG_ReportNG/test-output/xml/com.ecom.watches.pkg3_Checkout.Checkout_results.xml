@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test_reportng"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.475">
+  <properties />
+  
+  
+            <testcase name="Checkout3" time="0.000" classname="com.ecom.watches.pkg3_Checkout.Checkout" />
+                <testcase name="Checkout2" time="0.383" classname="com.ecom.watches.pkg3_Checkout.Checkout" />
+                <testcase name="Checkout1" time="16.092" classname="com.ecom.watches.pkg3_Checkout.Checkout" />
+      
+</testsuite>
